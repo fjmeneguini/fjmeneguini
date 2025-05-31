@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Sou Francisco Meneguini 👋</h1>
+<h1 align="center">Olá! Sou Francisco Meneguini</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Apaixonado+por+Tecnologia;Buscando+novos+desafios" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fjmeneguini&theme=cobalt&show_icons=true&hide_border=true&count_private=true"/> 
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## 
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="FM-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
@@ -28,7 +28,7 @@
 
 ---
 
-## 📱 Contato
+##
 
 <div align="center">
   <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🐍 Snake Game Contribution Grid
+## 
 
 <p align="center">
   <img src="https://github.com/fjmeneguini/fjmeneguini/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
