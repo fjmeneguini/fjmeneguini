@@ -8,7 +8,7 @@
 ##
 
 ### Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar aprendendo!
+Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
 
 - 📚 Estudando no **IFSP - Campus Campinas**
 - 💼 Buscando estágio na área de tecnologia
@@ -23,7 +23,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência c
 
 ##
 
-🔥 Projetos em destaque
+### Projetos em destaque
 
 - [📦 Donation Management System (DMS)](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
   Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
