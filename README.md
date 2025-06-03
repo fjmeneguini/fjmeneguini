@@ -1,4 +1,4 @@
-<h1 align="center">\Muito prazer! Eu sou o Francisco Meneguini</h1>
+<h1 align="center">Olá! Eu sou o Francisco Meneguini</h1>
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação</h3>
 
 <p align="center">
