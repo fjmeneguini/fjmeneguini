@@ -51,8 +51,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
   <div align="center">
   <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-</div>
+  <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1RmYPTfMjQzpkweEkITx2GbPbKP_2qx_Z/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+    </div>
 
 </div>
 
