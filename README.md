@@ -7,11 +7,13 @@
 
 ##
 
-### Sobre mim
+<h3 style="margin-bottom: 0.2em;">Sobre mim</h3>
+<p style="margin-top: 0.1em;">
 Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
+</p>
 
-- 📚 Estudando no **IFSP - Campus Campinas**
-- 💼 Buscando estágio na área de tecnologia
+- Estudando no <strong>IFSP - Campus Campinas</strong>
+- Buscando estágio na área de tecnologia
 
 ##
 
@@ -25,10 +27,10 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência c
 
 ### Projetos em destaque
 
-- [📦 Donation Management System (DMS)](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
+- [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
   Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
 
-- [🌐 Catálogo Online de Pequenos Negócios - Maniclick](https://github.com/fjmeneguini/Catalogo-Online-de-Pequenos-Negocios-Maniclick)  
+- [Catálogo Online de Pequenos Negócios - "Maniclick"](https://github.com/fjmeneguini/Catalogo-Online-de-Pequenos-Negocios-Maniclick)  
   Projeto web com HTML, CSS e JavaScript, criado para ajudar uma manicure de bairro a divulgar seus serviços. Inclui cadastro dinâmico de clientes, acessibilidade e responsividade.
 
 ##
