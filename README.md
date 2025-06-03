@@ -7,11 +7,8 @@
 
 ##
 
-<h3 style="margin-bottom: 0.2em;">Sobre mim</h3>
-<p style="margin-top: 0.1em;">
+### Sobre mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
-</p>
-
 - Estudando no <strong>IFSP - Campus Campinas</strong>
 - Buscando estágio na área de tecnologia
 
