@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Estudante+de+ADS;Estudante+de+ADS" alt="Typing SVG" />
 </p>
 
----
-
 ## 
 
 <div align="center">
@@ -13,8 +11,6 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=fjmeneguini&theme=algolia&hide_border=true" />
 </div>
-
----
 
 ## 
 
@@ -27,8 +23,6 @@
   <img align="center" alt="FM-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
 </div>                              
 
----
-
 ##
 
 <div align="center">
@@ -36,8 +30,6 @@
   <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
-
----
 
 ## 
 
