@@ -16,7 +16,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&count_private=true"/> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmeneguini&theme=algo&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=fjmeneguini&theme=algolia&hide_border=true" />
 </div>
 
