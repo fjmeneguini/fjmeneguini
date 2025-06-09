@@ -30,6 +30,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
 - [Catálogo Online de Pequenos Negócios - "Maniclick"](https://github.com/fjmeneguini/Catalogo-Online-de-Pequenos-Negocios-Maniclick)  
   Projeto web com HTML, CSS e JavaScript, criado para ajudar uma manicure de bairro a divulgar seus serviços. Inclui cadastro dinâmico de clientes, acessibilidade e responsividade.
 
+- [Site de Adoção de Animais – "AdoPet"](https://github.com/fjmeneguini/Site-de-Adocao-de-Animais-AdoPet)  
+  Projeto web com HTML, CSS, JavaScript e Firebase, feito para conectar ONGs a adotantes. Possui login, filtros de busca, cadastro de animais e formulário de contato, tudo com design responsivo e foco na adoção responsável.
+
 ##
 
 <div align="center">
