@@ -24,11 +24,11 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
 
 ### Projetos em destaque
 
-- [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
-  Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
-
 - [Catálogo Online de Pequenos Negócios - "Maniclick"](https://github.com/fjmeneguini/Catalogo-Online-de-Pequenos-Negocios-Maniclick)  
   Projeto web com HTML, CSS e JavaScript, criado para ajudar uma manicure de bairro a divulgar seus serviços. Inclui cadastro dinâmico de clientes, acessibilidade e responsividade.
+
+- [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
+  Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
 
 - [Site de Adoção de Animais – "AdoPet"](https://github.com/fjmeneguini/Site-de-Adocao-de-Animais-AdoPet)  
   Projeto web com HTML, CSS, JavaScript e Firebase, feito para conectar ONGs a adotantes. Possui login, filtros de busca, cadastro de animais e formulário de contato, tudo com design responsivo e foco na adoção responsável.
@@ -56,7 +56,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
   <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1RmYPTfMjQzpkweEkITx2GbPbKP_2qx_Z/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1WR-kpr031zLX68PSrWLgTLZRyxUJ4mi-/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
     </div>
 
 </div>
