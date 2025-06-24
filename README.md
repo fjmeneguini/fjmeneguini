@@ -25,7 +25,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
 ### Projetos em destaque
 
 - [Catálogo Online de Pequenos Negócios - "Maniclick"](https://github.com/fjmeneguini/Catalogo-Online-de-Pequenos-Negocios-Maniclick)  
-  Projeto web com HTML, CSS e JavaScript, criado para ajudar uma manicure de bairro a divulgar seus serviços. Inclui cadastro dinâmico de clientes, acessibilidade e responsividade.
+Sistema web completo desenvolvido com HTML, CSS e JavaScript, focado em facilitar a gestão e divulgação dos serviços de uma manicure autônoma. O projeto oferece agendamento online, catálogo dinâmico de serviços, avaliações de clientes, contato integrado (WhatsApp, redes sociais), acessibilidade, responsividade e carregamento de dados via JSON. Inclui também documentação técnica, banco de dados relacional com procedures, views, triggers e transações, além de prototipação, personas e design centrado no usuário.
+Ideal para pequenos negócios que buscam presença digital profissional e experiência de uso moderna para seus clientes.
 
 - [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
   Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
