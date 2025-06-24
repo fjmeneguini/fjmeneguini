@@ -29,7 +29,7 @@ Sistema web completo desenvolvido com HTML, CSS e JavaScript, focado em facilita
 Ideal para pequenos negócios que buscam presença digital profissional e experiência de uso moderna para seus clientes.
 
 - [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
-  Sistema desktop em C++, voltado para o gerenciamento de doações e estoques, ideal para ONGs e instituições sociais. Conta com CRUD, autenticação e interface amigável.
+Aplicativo desktop desenvolvido em C++, voltado para a gestão eficiente de doações em instituições sociais. Permite cadastro e controle de doadores, beneficiários e itens doados, além de registrar e consultar transações de entrada e saída. O sistema prioriza facilidade de uso, organização dos dados e transparência no processo de doação. Inclui documentação completa, fluxogramas, EAP, cronograma e requisitos funcionais, sendo ideal para ONGs e projetos sociais que buscam otimizar a administração de recursos e fortalecer o impacto social.
 
 - [Site de Adoção de Animais – "AdoPet"](https://github.com/fjmeneguini/Site-de-Adocao-de-Animais-AdoPet)  
   Projeto web com HTML, CSS, JavaScript e Firebase, feito para conectar ONGs a adotantes. Possui login, filtros de busca, cadastro de animais e formulário de contato, tudo com design responsivo e foco na adoção responsável.
