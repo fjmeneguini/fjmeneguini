@@ -17,7 +17,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&count_private=true"/> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=fjmeneguini&theme=algolia&hide_border=true" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=fjmeneguini&theme=algolia&hide_border=true"/>
 </div>
 
 ##
@@ -30,9 +30,6 @@ Ideal para pequenos negócios que buscam presença digital profissional e experi
 
 - [Donation Management System - "DMS"](https://github.com/fjmeneguini/Donation-Management-System-DMS)  
 Aplicativo desktop desenvolvido em C++, voltado para a gestão eficiente de doações em instituições sociais. Permite cadastro e controle de doadores, beneficiários e itens doados, além de registrar e consultar transações de entrada e saída. O sistema prioriza facilidade de uso, organização dos dados e transparência no processo de doação. Inclui documentação completa, fluxogramas, EAP, cronograma e requisitos funcionais, sendo ideal para ONGs e projetos sociais que buscam otimizar a administração de recursos e fortalecer o impacto social.
-
-- [Site de Adoção de Animais – "AdoPet"](https://github.com/fjmeneguini/Site-de-Adocao-de-Animais-AdoPet)  
-  Projeto web com HTML, CSS, JavaScript e Firebase, feito para conectar ONGs a adotantes. Possui login, filtros de busca, cadastro de animais e formulário de contato, tudo com design responsivo e foco na adoção responsável.
 
 ##
 
