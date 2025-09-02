@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Desenvolvedor;Motorola" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Desenvolvedor;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
 </p>
 
 ##
@@ -10,7 +10,7 @@
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS, JS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
 - Estudando no <strong>IFSP - Campus Campinas</strong>
-- Estágiario na ...
+- Estágiario da <strong>...
 
 ##
 
