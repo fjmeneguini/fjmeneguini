@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Desenvolvedor;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
+  <img style="width:100%;height:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1200&lines=Estudante+de+ADS;Desenvolvedor;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
 </p>
 
 ##
