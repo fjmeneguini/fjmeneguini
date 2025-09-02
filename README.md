@@ -2,7 +2,7 @@
 <h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Futuro+Desenvolvedor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Estudante+de+ADS;Desenvolvedor+Motorola" alt="Typing SVG" />
 </p>
 
 ##
