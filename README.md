@@ -10,7 +10,7 @@
 ### Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS, JS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
 - Estudando no <strong>IFSP - Campus Campinas</strong>
-- Buscando estágio na área de tecnologia
+- Estágiario na ...
 
 ##
 
