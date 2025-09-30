@@ -53,7 +53,7 @@ Aplicativo desktop desenvolvido em C++, voltado para a gest√£o eficiente de doa√
   <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=drive_link"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
     </div>
 
 </div>
