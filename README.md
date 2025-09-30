@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Francisco Meneguini</h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por tecnologia e programação</h3>
+<h3 align="center">Desenvolvedor em Formação | Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
   <img style="width:100%;height:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1200&lines=Estudante+de+ADS;Desenvolvedor;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
@@ -8,9 +8,9 @@
 ##
 
 ### Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas. Tenho experiência com C, C++, C#, HTML, CSS, JS e SQL. Atualmente, busco oportunidades para aplicar meus conhecimentos em projetos reais e continuar meu aprendizado.
+Estudante de tecnologia com 21 anos, cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas (conclusão em 2026). Atualmente estagiário na Motorola, atuando com CRM e validação de campanhas digitais utilizando HTML e SQL.
 - Estudando no <strong>IFSP - Campus Campinas</strong>
-- Estágiario da <strong>...
+- Estágiario da <strong>Morotola Mobility (a Lenovo Company)
 
 ##
 
