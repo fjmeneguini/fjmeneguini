@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor em Formação | Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
-  <img style="width:100%;height:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1200&lines=Estudante+de+ADS;Desenvolvedor;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
+  <img style="width:100%;height:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=1200&lines=Estudante+de+ADS;Motorola+Mobility+(a+Lenovo+Company)" alt="Typing SVG" />
 </p>
 
 ##
