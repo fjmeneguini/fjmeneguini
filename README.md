@@ -10,7 +10,7 @@
 ### Sobre mim
 Estudante de tecnologia com 21 anos, cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas (conclusão em 2026). Atualmente estagiário na Motorola, atuando com CRM e validação de campanhas digitais utilizando HTML e SQL.
 - Estudando no <strong>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP Câmpus Campinas</strong>
-- Estágiario da <strong>Morotola Mobility (a Lenovo Company) - Estagiário em Dados e Testes de Software</strong>
+- Estágiario da <strong>Morotola Mobility (a Lenovo Company) - Estagiário em CRM e Dados</strong>
 
 ##
 
