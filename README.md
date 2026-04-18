@@ -10,7 +10,7 @@
 ### Sobre mim
 Estudante de tecnologia com 21 anos, cursando Análise e Desenvolvimento de Sistemas no IFSP Campinas (conclusão em 2026). Atualmente estagiário na Motorola, atuando com CRM e validação de campanhas digitais utilizando HTML e SQL.
 - Estudando no <strong>Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - IFSP Câmpus Campinas</strong>
-- Estágiario da <strong>Morotola Mobility (a Lenovo Company) - Estagiário em CRM e Dados</strong>
+- Estagiário da <strong>Motorola Mobility (a Lenovo Company) - Estagiário em CRM e Dados</strong>
 
 ##
 
@@ -33,29 +33,24 @@ Aplicativo desktop desenvolvido em C++, voltado para a gestão eficiente de doa�
 ##
 
 <div align="center">
-<div align="center"><br>
-  <img align="center" alt="FM-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="FM-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
-  <img align="center" alt="FM-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="FM-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="FM-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="FM-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img align="center" alt="FM-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-</div>
-  
+  <img alt="FM-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> <img alt="FM-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> <img alt="FM-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="FM-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="FM-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> <img alt="FM-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <img alt="FM-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+
+  <br><br>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake.svg">
   </picture> 
-  
-  <div align="center">
-  <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
-    </div>
 
+  <br>
+
+  <div align="center">
+    <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
+  </div>
 </div>
 
 <p align="center">
