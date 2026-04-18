@@ -14,10 +14,10 @@ Estudante de tecnologia com 21 anos, cursando Análise e Desenvolvimento de Sist
 
 ##
 
-<div align="center">
+<p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&count_private=true"/> 
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjmeneguini&theme=algolia&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+</p>
 
 ##
 
@@ -32,27 +32,31 @@ Aplicativo desktop desenvolvido em C++, voltado para a gestão eficiente de doa�
 
 ##
 
-<div align="center">
-  <img alt="FM-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"> <img alt="FM-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"> <img alt="FM-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img alt="FM-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img alt="FM-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"> <img alt="FM-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"> <img alt="FM-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+<p align="center">
+  <img alt="FM-C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+  <img alt="FM-C#" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="FM-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img alt="FM-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img alt="FM-SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+  <img alt="FM-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="FM-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+</p>
 
-  <br><br>
-
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fjmeneguini/fjmeneguini/output/github-contribution-grid-snake.svg">
   </picture> 
-
-  <br>
-
-  <div align="center">
-    <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a href = "mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=sharing"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white"></a>
-  </div>
-</div>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fjmeneguini&style=flat-square&color=blue" alt="visitante">
+  <a href="https://instagram.com/fjmeneguini" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:fjmeneguini@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/franciscomeneguini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1H7VRxo0pFouX5InZGwJgiueMR3A-F23A/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Curr%C3%ADculo-800080?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fjmeneguini&style=flat-square&color=blue" alt="visitante" />
 </p>
